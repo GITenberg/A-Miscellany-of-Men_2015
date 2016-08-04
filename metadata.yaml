@@ -1,0 +1,47 @@
+_repo: A-Miscellany-of-Men_2015
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    - Chesterton, Gilbert Keith
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: Covering topics ranging from literature to philosophy, history to social
+  criticism, this is a snapshot of thought on 20th-century Europe (and the world)
+  by one of Europe's sharpest wits and ablest pens. With chapter titles ranging from
+  ""The Miser and His Friends" to ""The Red Reactionary," from ""The Separatist and
+  Sacred Things" to ""The New Theologian" and ""The Romantic in the Rain," this volume
+  includes 39 brief sketches of individuals, each one of whom illustrates an aspect
+  of contemporary society. Social, historical, and religious thought all figure prominently
+  in this book,
+gutenberg_issued: '1999-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2015'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English essays -- 20th century'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: 'The suffragist -- The poet and the cheese -- The thing -- The man
+  who thinks backwards -- The nameless man -- The gardener and the guinea -- The voter
+  and the two voices -- The mad official -- The enchanted man -- The sun worshipper
+  -- The wrong incendiary -- The free man -- The hypothetical householder -- The priest
+  of spring -- The real journalist -- The sentimental Scot -- The sectarian of society
+  -- The fool -- The conscript and the crisis -- The miser and his friends -- The
+  mystagogue -- The red reactionary -- The separatist and sacred things -- The Mummer
+  -- The aristocratic ''arry -- The new theologian -- The romantic in the rain --
+  The false photographer -- The sultan -- The architect of spears -- The man on top
+  -- The other kind of man -- The mediaeval villain -- The divine detective -- The
+  elf of Japan -- The chartered libertine -- The contented man -- The angry author:
+  his farewell.'
+title: A Miscellany of Men
+url: http://www.gutenberg.org/ebooks/2015
