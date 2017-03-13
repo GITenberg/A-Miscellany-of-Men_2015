@@ -1,5 +1,8 @@
 _repo: A-Miscellany-of-Men_2015
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chesterton, G. K. (Gilbert Keith)
@@ -19,6 +22,8 @@ description: Covering topics ranging from literature to philosophy, history to s
   includes 39 brief sketches of individuals, each one of whom illustrates an aspect
   of contemporary society. Social, historical, and religious thought all figure prominently
   in this book,
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2015#A-Miscellany-of-Men
 gutenberg_issued: '1999-12-01'
 gutenberg_type: Text
 identifiers:
